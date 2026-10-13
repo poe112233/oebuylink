@@ -3,82 +3,74 @@
          xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://oebuylink.com/</loc>
+    <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://oebuylink.com/"/>
     <xhtml:link rel="alternate" hreflang="zh" href="https://oebuylink.com/zh/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://oebuylink.com/es/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://oebuylink.com/pt/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://oebuylink.com/"/>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
   </url>
   <url>
     <loc>https://oebuylink.com/zh/</loc>
+    <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://oebuylink.com/"/>
     <xhtml:link rel="alternate" hreflang="zh" href="https://oebuylink.com/zh/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://oebuylink.com/es/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://oebuylink.com/pt/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://oebuylink.com/"/>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
   </url>
   <url>
     <loc>https://oebuylink.com/es/</loc>
+    <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://oebuylink.com/"/>
     <xhtml:link rel="alternate" hreflang="zh" href="https://oebuylink.com/zh/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://oebuylink.com/es/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://oebuylink.com/pt/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://oebuylink.com/"/>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
   </url>
   <url>
     <loc>https://oebuylink.com/pt/</loc>
+    <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://oebuylink.com/"/>
     <xhtml:link rel="alternate" hreflang="zh" href="https://oebuylink.com/zh/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://oebuylink.com/es/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://oebuylink.com/pt/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://oebuylink.com/"/>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
   </url>
   <url>
     <loc>https://oebuylink.com/sitemap.html</loc>
+    <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://oebuylink.com/"/>
     <xhtml:link rel="alternate" hreflang="zh" href="https://oebuylink.com/zh/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://oebuylink.com/es/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://oebuylink.com/pt/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://oebuylink.com/"/>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oebuylink.com/zh/sitemap.html</loc>
+    <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://oebuylink.com/"/>
     <xhtml:link rel="alternate" hreflang="zh" href="https://oebuylink.com/zh/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://oebuylink.com/es/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://oebuylink.com/pt/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://oebuylink.com/"/>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oebuylink.com/es/sitemap.html</loc>
+    <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://oebuylink.com/"/>
     <xhtml:link rel="alternate" hreflang="zh" href="https://oebuylink.com/zh/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://oebuylink.com/es/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://oebuylink.com/pt/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://oebuylink.com/"/>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oebuylink.com/pt/sitemap.html</loc>
+    <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://oebuylink.com/"/>
     <xhtml:link rel="alternate" hreflang="zh" href="https://oebuylink.com/zh/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://oebuylink.com/es/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://oebuylink.com/pt/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://oebuylink.com/"/>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
   </url>
 </urlset>
