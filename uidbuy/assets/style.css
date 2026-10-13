@@ -177,43 +177,55 @@ details.faq .ans a { font-weight: 500; }
 .crumb span { margin: 0 6px; color: #c3c9d4; }
 
 /* ---------- 页脚 ---------- */
-footer.site-ft { border-top: 1px solid var(--line); background: var(--surface); margin-top: 30px; padding: 34px 0 26px; }
-.ft-grid { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 24px; }
-.ft-grid h4 { font-size: 13px; font-weight: 700; margin-bottom: 10px; }
+footer.site-ft { border-top: 1px solid var(--line); background: var(--surface); margin-top: 34px; padding: 42px 0 34px; }
+.ft-grid { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 32px; }
+.ft-grid h4 { font-size: 13.5px; font-weight: 700; margin-bottom: 12px; }
 .ft-grid ul { list-style: none; }
-.ft-grid li { margin-bottom: 6px; }
-.ft-grid a, .ft-grid span { font-size: 13px; color: var(--muted); }
+.ft-grid li { margin-bottom: 8px; }
+.ft-grid a, .ft-grid span { font-size: 13.5px; color: var(--muted); }
 .ft-grid a:hover { color: var(--accent); }
-.ft-note { border-top: 1px solid var(--line); margin-top: 22px; padding-top: 16px; font-size: 12px; color: #98a0ae; }
-.ft-note p + p { margin-top: 4px; }
+.ft-note { border-top: 1px solid var(--line); margin-top: 28px; padding-top: 20px; font-size: 12.5px; color: #98a0ae; line-height: 1.7; }
+.ft-note p + p { margin-top: 6px; }
 
 /* ---------- 社交媒体 ---------- */
-.social-grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 12px; }
+.social-grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 14px; }
 .social-card {
-  display: flex; flex-direction: column; align-items: center; gap: 6px; text-align: center;
+  display: flex; flex-direction: column; align-items: center; gap: 8px; text-align: center;
   background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius);
-  padding: 18px 12px; color: var(--text); transition: border-color .15s, transform .15s;
+  padding: 22px 14px; color: var(--text); transition: border-color .15s, transform .15s;
 }
 .social-card:hover { border-color: var(--accent); text-decoration: none; transform: translateY(-2px); }
 .social-card .sc-ic { color: var(--accent); display: inline-flex; }
-.social-card .sc-nm { font-weight: 700; font-size: 14px; }
-.social-card .sc-hd { color: #98a0ae; font-size: 12px; word-break: break-all; }
+.social-card .sc-nm { font-weight: 700; font-size: 15px; }
+.social-card .sc-hd { color: #98a0ae; font-size: 12.5px; word-break: break-all; }
+
+/* 页脚社交区：大图标胶囊 + 宽松间距 */
 .ft-social {
-  display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
-  border-top: 1px solid var(--line); margin-top: 20px; padding-top: 18px;
+  border-top: 1px solid var(--line);
+  margin-top: 32px; padding-top: 30px;
 }
-.ft-social-title { font-size: 13px; font-weight: 700; margin-right: 4px; }
+.ft-social-head { font-size: 16.5px; font-weight: 700; margin-bottom: 18px; }
+.ft-social-links { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; }
 .social-link {
-  display: inline-flex; align-items: center; gap: 6px; font-size: 13px; color: var(--muted);
-  border: 1px solid var(--line); border-radius: 999px; padding: 5px 13px; background: #fff;
+  display: inline-flex; align-items: center; gap: 10px;
+  font-size: 14.5px; font-weight: 600; color: var(--text);
+  border: 1px solid var(--line); border-radius: 12px;
+  padding: 12px 20px; background: #fff;
+  transition: border-color .15s, transform .15s;
 }
-.social-link:hover { border-color: var(--accent); color: var(--accent); text-decoration: none; }
+.social-link:hover {
+  border-color: var(--accent); color: var(--accent);
+  text-decoration: none; transform: translateY(-1px);
+}
 .social-link svg { flex: none; }
 @media (max-width: 960px) {
   .social-grid { grid-template-columns: repeat(3, 1fr); }
 }
 @media (max-width: 560px) {
   .social-grid { grid-template-columns: repeat(2, 1fr); }
+  .ft-social { margin-top: 26px; padding-top: 24px; }
+  .ft-social-links { gap: 10px; }
+  .social-link { padding: 10px 15px; font-size: 13.5px; }
 }
 @media (max-width: 960px) {
   .pgrid { grid-template-columns: repeat(3, 1fr); }
