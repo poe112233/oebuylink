@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://oebuylink.com/sitemap.xml
+Sitemap: https://oopbuy.oebuylink.com/sitemap.xml
