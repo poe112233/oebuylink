@@ -1,0 +1,3 @@
+# Link forwarder: pretty /p/<id> and /c/<slug> entries 301 to the live store page.
+/p/* https://oe-brand.app.workbuddy.host/p/:splat 301
+/c/* https://oe-brand.app.workbuddy.host/c/:splat 301
