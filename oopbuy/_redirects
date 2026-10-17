@@ -1,3 +1,8 @@
 # Link forwarder: pretty /p/<id> and /c/<slug> entries 301 to the live store page.
+# 旧版英文页曾在 /en/（内容与根路径重复、且带 Product 结构化数据）→ GSC 产品摘要 + 备用网页。
+# 文件已从仓库删除，这里保留 301 把历史链接与信号并到现行页面。
+/en  /  301
+/en/*  /:splat  301
+# /p /c 深链转发（目标带尾斜杠，避免多一跳 308）
 /p/* https://ores.cc/p/:splat/ 301
 /c/* https://ores.cc/c/:splat/ 301
